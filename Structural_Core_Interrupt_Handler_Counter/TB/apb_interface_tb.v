@@ -1,18 +1,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
-// Company: <Name>
 //
-// File: apb_interface_tb.v
-// File history:
-//      <Revision number>: <Date>: <Comments>
-//      <Revision number>: <Date>: <Comments>
-//      <Revision number>: <Date>: <Comments>
-//
-// Description: 
-//
-// <Description here>
-//
-// Targeted device: <Family::PolarFireSoC> <Die::MPFS095T> <Package::FCSG325>
-// Author: <Name>
+// Author: Swandeep Sarmah
+// About: Testbench for IP block
 //
 /////////////////////////////////////////////////////////////////////////////////////////////////// 
 

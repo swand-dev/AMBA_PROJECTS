@@ -1,18 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
-// Company: <Microchip Technology INC>
-//
-// File: Control_logic.v
-// File history:
-//      <Revision 1.0>: <05/07/2025>: <Changes from previous Behavioral to Structural Design to accomodate better maintainability.>
-//      <Revision number>: <Date>: <Comments>
-//      <Revision number>: <Date>: <Comments>
-//
-// Description: 
-//
-// <Control logic to set a register bit to drive the enable for counter to start counting. ENABLE_BIT parameter is set so that whenever a use requires to specify more bits to drive a logic they have the flexibility to define it according to their use case.>
-//
-// Targeted device: <Family::PolarFireSoC> <Die::MPFS095T> <Package::FCSG325>
-// Author: <Swandeep_Sarmah>
+// Author: Swandeep Sarmah
+// About: Control Logic for the IP
 //
 /////////////////////////////////////////////////////////////////////////////////////////////////// 
 

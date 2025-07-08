@@ -1,18 +1,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
-// Company: <Name>
 //
-// File: sns_module.v
-// File history:
-//      <Revision 1.0>: <05/07/2025>: <Changes from previous Behavioral to Structural Design to accomodate better maintainability.>
-//      <Revision number>: <Date>: <Comments>
-//      <Revision number>: <Date>: <Comments>
-//
-// Description: 
-//
-// <SNS referers to Shift aNd Save functionality that is going to store upto 10 values and keep shifting like a FIFO>
-//
-// Targeted device: <Family::PolarFireSoC> <Die::MPFS095T> <Package::FCSG325>
-// Author: <Swandeep_Sarmah>
+// Author: Swandeep_Sarmah
+// About: SNS referers to Shift aNd Save functionality that is going to store upto 10 values and keep shifting like a FIFO
 //
 /////////////////////////////////////////////////////////////////////////////////////////////////// 
 

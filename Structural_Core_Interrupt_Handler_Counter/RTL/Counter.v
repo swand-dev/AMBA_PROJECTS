@@ -1,19 +1,8 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
-// Company: <Microchip Technology INC>
-//
-// File: Counter.v
-// File history:
-//      <Revision 1.0>: <05/07/2025>: <Changes from previous Behavioral to Structural Design to accomodate better maintainability.>
-//      <Revision number>: <Date>: <Comments>
-//      <Revision number>: <Date>: <Comments>
-//
-// Description: 
-//
-// <Generic N-Bit Counter defaulted to 32-bit. It can be used for Counting determinism environments.>
-//
-// Targeted device: <Family::PolarFireSoC> <Die::MPFS095T> <Package::FCSG325>
+//  
 // Author: <Swandeep_Sarmah>
 //
+// About: Generic N-Bit Counter defaulted to 32-bit. It can be used for Counting determinism environments
 /////////////////////////////////////////////////////////////////////////////////////////////////// 
 
 `timescale 1ns / 1ps

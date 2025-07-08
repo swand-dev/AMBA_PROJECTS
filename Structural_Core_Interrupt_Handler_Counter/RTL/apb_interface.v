@@ -1,18 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
-// Company: <Name>
-//
-// File: apb_interface.v
-// File history:
-//      <Revision number>: <Date>: <Comments>
-//      <Revision number>: <Date>: <Comments>
-//      <Revision number>: <Date>: <Comments>
-//
-// Description: 
-//
-// <Description here>
-//
-// Targeted device: <Family::PolarFireSoC> <Die::MPFS095T> <Package::FCSG325>
-// Author: <Name>
+// Author: Swandeep Sarmah
+// About: This is the top module to the Core that is APB enabled.
 //
 /////////////////////////////////////////////////////////////////////////////////////////////////// 
 

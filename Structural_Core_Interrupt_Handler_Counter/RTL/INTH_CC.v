@@ -1,18 +1,8 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
-// Company: <Name>
 //
-// File: INTH_CC.v
-// File history:
-//      <Revision number>: <Date>: <Comments>
-//      <Revision number>: <Date>: <Comments>
-//      <Revision number>: <Date>: <Comments>
+// Author: Swandeep Sarmah
 //
-// Description: 
-//
-// <Description here>
-//
-// Targeted device: <Family::PolarFireSoC> <Die::MPFS095T> <Package::FCSG325>
-// Author: <Name>
+// About: Wire Connect block for the IP
 //
 /////////////////////////////////////////////////////////////////////////////////////////////////// 
 
